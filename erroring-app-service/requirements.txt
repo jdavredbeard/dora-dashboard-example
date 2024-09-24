@@ -1,0 +1,4 @@
+pulumi>=3.0.0,<4.0.0
+pulumi_aws
+pulumi_awsx
+pulumi_docker_build
